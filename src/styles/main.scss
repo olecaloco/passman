@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+button:disabled {
+    opacity: 0.5;
+}
